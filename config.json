@@ -475,6 +475,14 @@
         "difficulty": 6
       },
       {
+        "slug": "word-search",
+        "name": "Word Search",
+        "uuid": "58ffd8d4-1d81-423f-9a06-df1806e8c48a",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 6
+      },
+      {
         "slug": "crypto-square",
         "name": "Crypto Square",
         "uuid": "f5f0f47a-f777-499e-a1fd-61bbff94cceb",
